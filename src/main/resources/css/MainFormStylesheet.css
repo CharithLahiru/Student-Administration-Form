@@ -1,0 +1,10 @@
+.invalid {
+    /*-fx-box-border: red   !important;*/
+    /*-fx-border-color: red;*/
+    -fx-text-box-border: red  !important;
+    -fx-text-border-color: red;
+    -fx-focus-color: red;
+}
+.button {
+    -fx-background-color: #bfbff5;
+}
